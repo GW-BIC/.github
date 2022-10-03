@@ -5,7 +5,9 @@ This is the GitHub Page for
 Here, you can find:
 - 📂 Repositories containing relevant code for published work!
 - 📝 Scripts/Apps we wrote that may be of use to others!
-- 📽 Presentations generated for onboarding internally, but that anyone may find moderately useful
+- 📽 Presentations generated for internal use, but that anyone may find moderately useful
+- 🔗 A Resources List maintained by the faculty that may also be useful!
+
 
 The mission of the Biomedical Informatics Center is to leverage biomedical information, including EHR, social media, and omics data, to predict and improve patient outcomes by developing and using cutting-edge computational technology.
 
